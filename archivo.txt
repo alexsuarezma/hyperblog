@@ -1,0 +1,5 @@
+Mi nombre es Alex
+
+Alex tiene 28 años de edad y nacio en Ecuador
+
+Es estudiante.
