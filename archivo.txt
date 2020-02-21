@@ -2,4 +2,6 @@ Mi nombre es Alex Suarez
 
 Alex tiene 24 años de edad y nacio en Ecuador
 
+Anita Platzi tiene 41 años y nacio en Internet
+
 Es estudiante y fullstacks.
